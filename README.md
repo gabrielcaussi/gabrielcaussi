@@ -10,18 +10,18 @@ I am currently learning 👨‍💻 the React and React Native frameworks.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
-    <img src="src/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="src/badges/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.instagram.com/g_caussi/">
-    <img src="src/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="src/badges/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.twitter.com/g_caussi/">
-    <img src="src/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="src/badges/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="https://gcaussi.github.io/">
-    <img src="src/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img src="src/badges/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
