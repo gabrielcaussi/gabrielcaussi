@@ -13,7 +13,7 @@
     <img src="src/badges/personal-blog.svg" alt="personal-blog" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="https:url/">
+  <a href="https://github.com/gabrielcaussi/gabrielcaussi/blob/main/src/curriculum/GabrielCaussi-CV.pdf">
     <img src="src/badges/curriculum.svg" alt="curriculum" style="vertical-align:top; margin:6px 4px">
   </a>
 
