@@ -23,7 +23,7 @@
     <img src="src/badges/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://mailto:gcaussi@gmail.com">
+  <a href="mailto:gcaussi@gmail.com">
     <img src="src/badges/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 
