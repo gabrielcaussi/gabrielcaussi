@@ -6,6 +6,8 @@
 
 <p align="center">Always concerned with design and good production practices.</p>
 
+<p align="center">I am currently more focused on Hardware and Firmware Development.</p>
+
 <hr>
 
 <div align="center">
