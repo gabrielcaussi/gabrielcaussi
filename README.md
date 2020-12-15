@@ -1,27 +1,31 @@
-![Foto de Capa](src/foto-de-capa.jpeg)
+<h1 align="center">Hello, I am Gabriel Caussi! 👋</h1>
 
-## Welcome to my GitHub! 👋
+<p align="center">Studying Mechatronics Technician since 2017, I developed several projects related to technology.</p>
 
-I am a lover of technology in general, being hardware or software. I have a focus on Front-End Web Development and I am passionate about Javascript, mainly for the reuse of code between different platforms, whether Desktop, Mobile or Web.
+<p align="center">Projects involving hardware and firmware development, machining processes, part modeling with CAD software, analog and digital electronics, microcontrollers, among others.</p>
 
-I am currently learning 👨‍💻 the React and React Native frameworks.
+<p align="center">Always concerned with design and good production practices.</p>
 
-## Find me elsewhere 📱🌎
+<hr>
 
-<p align="left">
+<div align="center">
+  <a href="https://gabrielcaussi.github.io/">
+    <img src="src/badges/personal-blog.svg" alt="personal-blog" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="https:url/">
+    <img src="src/badges/curriculum.svg" alt="curriculum" style="vertical-align:top; margin:6px 4px">
+  </a>
+
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
     <img src="src/badges/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="https://mailto:gcaussi@gmail.com">
+    <img src="src/badges/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.instagram.com/g_caussi/">
     <img src="src/badges/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
-
-  <a href="https://www.twitter.com/g_caussi/">
-    <img src="src/badges/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="https://gcaussi.github.io/">
-    <img src="src/badges/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
+</div>
