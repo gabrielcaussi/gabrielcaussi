@@ -1,22 +1,20 @@
 <h1 align="center">Hello, I am Gabriel Caussi! 👋</h1>
 
-<p align="center">Studying Mechatronics Technician since 2017, I developed several projects related to technology.</p>
+<p align="center">Studying Mechatronics Technician since 2017, I had my first professional contact with technology.</p>
 
-<p align="center">Projects involving hardware and firmware development, machining processes, part modeling with CAD software, analog and digital electronics, microcontrollers, among others.</p>
+<p align="center">At the IFSul Institution where I studied Technician in Mecâtronics, I had some computers with Ubuntu installed.</p>
 
-<p align="center">Always concerned with design and good production practices.</p>
+<p align="center">I've always been curious about this operating system.</p>
 
-<p align="center">I am currently more focused on Hardware and Firmware Development.</p>
+<p align="center">In early 2020, I decided to install Ubuntu on my personal computer.</p>
+
+<p align="center">I really liked Linux and gradually discovered the career of DevOps Engineer.</p>
 
 <hr>
 
 <div align="center">
-  <a href="https://gabrielcaussi.github.io/">
+  <a href="https://gabrielcaussi.com.br/">
     <img src="src/badges/personal-blog.svg" alt="personal-blog" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="https://github.com/gabrielcaussi/gabrielcaussi/blob/main/src/curriculum/GabrielCaussi-CV.pdf">
-    <img src="src/badges/curriculum.svg" alt="curriculum" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
@@ -27,7 +25,7 @@
     <img src="src/badges/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="https://www.instagram.com/g_caussi/">
+  <a href="https://www.instagram.com/gabrielcaussi_/">
     <img src="src/badges/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
 </div>
