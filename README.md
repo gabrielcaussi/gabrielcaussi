@@ -21,19 +21,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/gabrielcaussi/dotfiles">📁 Dotfiles</a>
-<div>
-
-<br>
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/gabrielcaussi/dotfiles">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<h3 align="center">🔗 Links to my social networks:</h3>
-
-<div align="center">
   <a href="https://gabrielcaussi.com.br/">
     <img src="src/badges/personal-blog.svg" alt="personal-blog" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -49,4 +36,15 @@
   <a href="https://www.instagram.com/gabrielcaussi_/">
     <img src="src/badges/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
+
+  <a href="https://github.com/gabrielcaussi/dotfiles">
+    <img src="src/badges/dotfiles.svg" alt="dotfiles" style="vertical-align:top; margin:6px 4px">
+  </a>
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/gabrielcaussi/dotfiles">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
