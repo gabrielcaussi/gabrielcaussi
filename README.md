@@ -20,6 +20,8 @@
   <p>Fedora KDE ● Virtualbox ● Vagrant ● VS Code ● Kitty ● Zsh ● Tmux ● Neovim ● Dracula Theme</p>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://gabrielcaussi.com.br/">
     <img src="src/badges/personal-blog.svg" alt="personal-blog" style="vertical-align:top; margin:6px 4px">
@@ -42,6 +44,7 @@
   </a>
 </div>
 
+<br>
 <br>
 
 <div align="center" style="display: inline_block">
