@@ -1,16 +1,39 @@
-<h1 align="center">Hello, I am Gabriel Caussi! 👋</h1>
+<h2 align="center">Gabriel Caussi - DevOps Engineer</h2>
 
-<p align="center">Studying Mechatronics Technician since 2017, I had my first professional contact with technology.</p>
+<div align="center">
+  <h3>👨 About me!</h3>
+  <p>👨‍💻 DevOps, calisthenics, content creation, music, automobilism and pop culture!</p>
+</div>
 
-<p align="center">At the IFSul Institution where I studied Technician in Mecâtronics, I had some computers with Ubuntu installed.</p>
+<div align="center" style="display: inline_block">
+  <h3 align="center">⚙️ Stacks</h3>
+  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">Linux
+  <img align="center" alt="Shell Script" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">Shell Script
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">Docker
+  <img align="center" alt="Jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">Jenkins
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">Git
+</div>
 
-<p align="center">I've always been curious about this operating system.</p>
+<div align="center">
+  <h3 align="center">⚒️ Tools</h3>
+  <p>Fedora KDE ● Virtualbox ● Vagrant ● VS Code ● Kitty ● Zsh ● Tmux ● Neovim ● Dracula Theme</p>
+</div>
 
-<p align="center">In early 2020, I decided to install Ubuntu on my personal computer.</p>
+<div align="center">
+  <a href="https://github.com/gabrielcaussi/dotfiles">📁 Dotfiles</a>
+<div>
 
-<p align="center">I really liked Linux and gradually discovered the career of DevOps Engineer.</p>
+<br>
 
-<hr>
+<div align="center">
+  <a href="https://github.com/gabrielcaussi?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaussi&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<h3 align="center">🔗 Links to my social networks:</h3>
 
 <div align="center">
   <a href="https://gabrielcaussi.com.br/">
