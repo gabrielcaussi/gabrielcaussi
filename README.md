@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>👨 About me!</h3>
-  <p>👨‍💻 DevOps, calisthenics, content creation, music, automobilism and pop culture!</p>
+  <p>👨‍💻 DevOps, bodybuilding, content creation, music, and pop culture!</p>
 </div>
 
 <div align="center" style="display: inline_block">
